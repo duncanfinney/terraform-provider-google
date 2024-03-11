@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-google
+module github.com/duncanfinney/terraform-provider-google
 
 go 1.20
 
